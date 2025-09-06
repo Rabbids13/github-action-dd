@@ -1,2 +1,2 @@
 # github-action-dd
-Test for github action and DD integration
+Test for GitHub action and DD integration
